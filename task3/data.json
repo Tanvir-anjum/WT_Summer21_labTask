@@ -1,0 +1,47 @@
+[
+    {
+        "name": "Tanvir Anjum",
+        "email": "tanviranjum.16@gmail.com",
+        "password": "abcde",
+        "comment": "This file is only for testing purpose!!!!!",
+        "gender": "Male",
+        "hobby": ",Singing,Reading",
+        "file_path": "File\/IMG_20210514_180344_Bokeh - Copy.jpg"
+    },
+    {
+        "name": "Tanvir Anjum",
+        "email": "tanviranjum.16@gmail.com",
+        "password": "vesdvesdrbv",
+        "comment": "rbverbreberdbrefbre",
+        "gender": "Male",
+        "hobby": ",Singing",
+        "file_path": "FileIMG_20210105_154229.jpg"
+    },
+    {
+        "name": "I love coding",
+        "email": "17-33555-1@student.aiub.edu",
+        "password": "1234567890",
+        "comment": "testinggggggggggg",
+        "gender": "Male",
+        "hobby": ",Singing,Reading",
+        "file_path": "File\/16238563267974671369532377869435.jpg"
+    },
+    {
+        "Name": "I love coding",
+        "Email": "17-33555-1@student.aiub.edu",
+        "Password": "1234567890",
+        "Comment": "testinggggggggggg",
+        "Gender": "Male",
+        "Hobby": ",Singing,Reading",
+        "File_Path": "File\/16238563267974671369532377869435.jpg"
+    },
+    {
+        "Name": "Tanvir Anjum",
+        "Email": "tanviranjum.16@gmail.com",
+        "Password": "gfdgbvdvbdgfbvdfvb",
+        "Comment": "gbdvdfvb fdvbfdbdfbfdbv ",
+        "Gender": "Male",
+        "Hobby": ",Singing",
+        "File_Path": "File\/190599950_1946954412147667_737924641776663172_n.jpg"
+    }
+]
